@@ -10,13 +10,17 @@ color:#333;
 
 }
 
-header{
+background-image:url("wallpaper.jpg");
 
-background:#0b3d91;
+background-size:cover;
+
+background-position:center;
+
+background-repeat:no-repeat;
 
 color:white;
 
-padding:50px;
+padding:120px 50px;
 
 text-align:center;
 
